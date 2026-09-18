@@ -33,7 +33,7 @@ Projetos e laboratórios desenvolvidos no Cisco Packet Tracer, explorando endere
 
 Estudos e análises de casos reais relacionados à segurança da informação, ataques cibernéticos e seus impactos.
 
-** Estudos em Cibersegurança**
+**Estudos em Cibersegurança**
 
 Registro de atividades, aprendizados e projetos desenvolvidos durante minha formação na área.
 
