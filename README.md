@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&weight=500&size=30&letterSpacing=2px&pause=930&color=9E26B8F3&background=46464600&width=441&lines=N%C3%ADvia+Ribeiro+Pereira)](https://git.io/typing-svg)
 ---
-
-Estudante de **Cibersegurança**, com foco em **Redes de Computadores e Segurança da Informação**.
-
 Estou construindo minha transição para Tecnologia por meio de estudos, projetos práticos e atividades voltadas para redes, infraestrutura e fundamentos de cibersegurança.
 
 > **Não quero apenas saber como uma rede funciona, mas também reconhecer os sinais de quando alguma coisa começa a sair do esperado.**
